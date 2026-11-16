@@ -1,0 +1,13 @@
+name = "Tax Free Levels"
+filename = "TaxFreeLevels-1.5.5-fabric-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jCBrrLTs/versions/PMSQlD46/TaxFreeLevels-1.5.5-fabric-26.1.jar"
+hash-format = "sha512"
+hash = "431cc9d076b6c4f43742e3b89b4f67c2a308cb6bfffd008e8eba8e638a266e8da752f089ef42a55265ee6a332bddd117d717459a9ce6ff3869844c5b1c8b8760"
+
+[update]
+[update.modrinth]
+mod-id = "jCBrrLTs"
+version = "PMSQlD46"

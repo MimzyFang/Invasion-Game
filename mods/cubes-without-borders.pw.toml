@@ -1,0 +1,12 @@
+name = "Cubes Without Borders"
+filename = "cwb-5.0.0+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/j83DOIex/cwb-5.0.0%2B26.1.jar"
+hash-format = "sha512"
+hash = "4000c90edc711dc15f153d4be75a9a26af8965ad13a141ef669009c0113de04350478fcb1a40a0aee30eaece583ceb30f1fd34ac77e5d7bd4e30165bfc3f0fcf"
+
+[update.modrinth]
+mod-id = "ETlrkaYF"
+version = "j83DOIex"

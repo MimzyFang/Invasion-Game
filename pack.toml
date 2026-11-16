@@ -1,0 +1,13 @@
+name = "Invasion Game"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7c39edbb883b322df640ac50ec234c85af782113d6fd34c2abfc210f7e1775ee"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.1.2"
+unsup = "1.3.0"

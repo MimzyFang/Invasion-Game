@@ -1,0 +1,12 @@
+name = "Lithostitched"
+filename = "lithostitched-1.8.1-fabric-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/o908EP07/lithostitched-1.8.1-fabric-26.1.jar"
+hash-format = "sha512"
+hash = "c4b81e736a04ec403fba46f9953d5d6f64705e49168e47dfa584fac76fca9995fdf58062533e33b5c28c9bcdd49808b40897ea22116a63700937a347e6cee765"
+
+[update.modrinth]
+mod-id = "XaDC71GB"
+version = "o908EP07"

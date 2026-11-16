@@ -1,0 +1,12 @@
+name = "Greenlight"
+filename = "greenlight-fabric-0.1.0+mc26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EE4vxUHj/versions/X4NpAXAm/greenlight-fabric-0.1.0%2Bmc26.2.jar"
+hash-format = "sha512"
+hash = "e448bb7c08e9a4eb370bcc03f17df15392e731a7ab4f5e990a13ccb8403d5d486aa74019487fd913fd7a138039352b9843535b2fa7f2aa3ca5fba1a9d5bbb8e6"
+
+[update.modrinth]
+mod-id = "EE4vxUHj"
+version = "X4NpAXAm"

@@ -1,0 +1,12 @@
+name = "Sodium/Embeddium Leaf Culling"
+filename = "seleafculling-fabric-4.3.0+26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xtym7fz7/versions/AXpk1eZl/seleafculling-fabric-4.3.0%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "b9cbd177797e0a7af525aa2d2c1a3815dd4e84392fc0e051cc97a1d0a829e3fbf9eb98a643ca89839d22e5ef88772fa3cf150e6d3487c26c5d95b5f7f2c9671c"
+
+[update.modrinth]
+mod-id = "xtym7fz7"
+version = "AXpk1eZl"
