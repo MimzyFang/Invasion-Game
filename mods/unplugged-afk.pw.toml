@@ -1,0 +1,13 @@
+name = "Unplugged AFK"
+filename = "unplugged_afk-v0.2.6-mc26.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/VlR3taCz/versions/V0CSjjvD/unplugged_afk-v0.2.6-mc26.1.2.jar"
+hash-format = "sha512"
+hash = "fa87fe8a08901ee680596537581551b151b0d17297c077fcb528eefdce6de7bbbb56a551abcbeffd219a964450e9bc1476fde70dbf8f69aca5149e07f1f677fc"
+
+[update]
+[update.modrinth]
+mod-id = "VlR3taCz"
+version = "V0CSjjvD"

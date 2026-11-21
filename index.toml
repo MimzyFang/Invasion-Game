@@ -463,6 +463,11 @@ hash = "d0ee91a3987d4bab35ef116899882f45c1541903848c7a1c200b1dd22ef861cf"
 metafile = true
 
 [[files]]
+file = "mods/unplugged-afk.pw.toml"
+hash = "f5ce7d5f1567687b5823ac3652758a982a37e829876a60357984483afef5199f"
+metafile = true
+
+[[files]]
 file = "mods/veinminer.pw.toml"
 hash = "044220b78adea19de182b543a7e963610394eb36a081664849ee6e78e85d91c7"
 metafile = true
