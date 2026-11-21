@@ -143,6 +143,11 @@ hash = "8836a7a326d2e40a8ef76fd27b3cec0abe28b02e0f88ab5534219f73c392a41f"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "7d6de493f29feea71993129ce65acd0af98faa53077cdfd9c4b3a90b665a18d5"
+metafile = true
+
+[[files]]
 file = "mods/configmanager.pw.toml"
 hash = "fcfab424a2d1129214345d98573302f8c3a34b2f3894d6435e0d7751461052ef"
 metafile = true
@@ -445,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "e64b66f89980c6f59a1d41e887961461fae94fc15a86474af540a6068a0825fa"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "8b6c652ff62af2c638069362c27faf38cbcf6c991abd60bd0a363d93c78fad36"
 metafile = true
 
 [[files]]
